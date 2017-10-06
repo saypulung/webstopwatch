@@ -1,0 +1,21 @@
+{
+  "name": "webstopwatch",
+  "version": "1.0.0",
+  "description": "threading stopwatch",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.5.0",
+    "body-parser": "*",
+    "express": "*",
+    "node-stopwatch": "0.0.1",
+    "promise": "*",
+    "socket.io": "^2.0.3",
+    "sprintf-js": "^1.1.1",
+    "threads": "^0.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
